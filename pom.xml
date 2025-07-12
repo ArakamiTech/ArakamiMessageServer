@@ -22,7 +22,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.arakamitech.arakamimessageserver</mainClass>
+                            <mainClass>com.arakamitech.arakamimessageserver.ChatServer</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
